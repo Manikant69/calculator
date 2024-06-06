@@ -17,7 +17,7 @@ The Basic Calculator is a web-based calculator application built using HTML, CSS
 1. Clone this repository to your local machine:
 
 ```
-git clone https://github.com/your-username/basic-calculator.git
+git clone https://github.com/manikant69/basic-calculator.git
 ```
 
 
